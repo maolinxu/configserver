@@ -1,1 +1,3 @@
-id: client
+spring:
+  application:
+    name: configclient
